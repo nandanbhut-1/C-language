@@ -84,7 +84,7 @@ void mul(int n1,int n2){
 	printf("multiple is :%d\n\n",n1*n2);
 }
 void div(int n1,int n2){
-	printf("divison is :%d\n\n",n1/n2);
+	printf("divison is :%d\n\n",float(n1/n2));
 }
 void mod(int n1,int n2){
 	printf("moduler is :%d\n\n",n1%n2);
